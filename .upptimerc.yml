@@ -5,11 +5,11 @@ repo: uptime # The name of this repository
 sites:
   - name: aarondoran.me
     url: https://www.aarondoran.me
+    assignees: Aarondoran
   - name: Node-url-shortener
     url: https://Node-URL-shortener.vercel.app
+    assignees: Aarondoran
 
-assignees:
-  - Aarondoran
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,12 +18,14 @@ status-website:
   # baseUrl: /Uptime
   logoUrl: https://aarondoran.me/pfp.png
   name: Aarondoran uptime
-  introTitle: "This is my uptime detector by **upptime**"
-  introMessage: "This is my status page"
+  introTitle: "Aarondoran Uptime detctor"
+  introMessage: "This is my status page for any websites or things i need to keep track of"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: My site
+      href: https://aarondoran.me
       
 skipDeleteIssues: true
