@@ -42,19 +42,19 @@
     "url": "https://forgotten-files.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/forgotten-files.vercel.app.ico",
     "slug": "forgotten-files",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 332,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 41
     }
   }
 ]
